@@ -81,13 +81,6 @@ cd ../frontend
 npm install
 npm run dev
 ```
-
-## 📸 Screenshots
-
-| Job Listings                          | Job Details                               |
-| ------------------------------------- | ----------------------------------------- |
-| ![Job list](screenshots/job-list.png) | ![Job detail](screenshots/job-detail.png) |
-
 ---
 
 ## ✅ Future Improvements
